@@ -14,3 +14,4 @@ AlexeyAltunin microservices repository
 Создан образ в нутри которого утсанавливаются все необходимые компоненты и запускается приложение  reddit
 Образ залит в docker hub
 ```
+
