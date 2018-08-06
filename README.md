@@ -24,3 +24,10 @@ AlexeyAltunin microservices repository
 Сохранение данных в volume 
 ```
 
+# ДЗ_15
+## Что было сделано
+```
+Собраны образы и зупущено приложение reddit через docker-compose
+Задать имя проекта: docker-compose -p test_project up -d
+```
+
