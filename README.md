@@ -31,3 +31,10 @@ AlexeyAltunin microservices repository
 Задать имя проекта: docker-compose -p test_project up -d
 ```
 
+# ДЗ_16
+## Что было сделано
+```
+Запущен гитлаб и раннер
+Настроин pipeline
+```
+
