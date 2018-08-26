@@ -44,3 +44,11 @@ AlexeyAltunin microservices repository
 Расширение пайплайна 
 Работа с динамическим окружением
 ```
+
+# ДЗ_18
+## Что было сделано
+```
+Запуск Prometheus совместно с сервисами
+Сбор метрик
+https://hub.docker.com/u/alexeyaltunin/
+```
