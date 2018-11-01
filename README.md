@@ -60,3 +60,4 @@ https://hub.docker.com/u/alexeyaltunin/
 руссмотрены  cadvisor, grafana, alertmanager
 https://hub.docker.com/u/alexeyaltunin/
 ```
+
