@@ -12,11 +12,21 @@ services:
       - ${ui_port}:${ui_port}/tcp
     networks:
       - front_net
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: localhost:24224
+        tag: service.ui
   post:
     image: ${USERNAME}/post:${post_version}
     networks:
       - front_net
       - back_net
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: localhost:24224
+        tag: service.post
   comment:
     image: ${USERNAME}/comment:${comment_version}
     networks:
