@@ -53,3 +53,11 @@ AlexeyAltunin microservices repository
 https://hub.docker.com/u/alexeyaltunin/
 ```
 
+# ДЗ_19
+## Что было сделано
+```
+выделение мониторинга из docker-compose в docker-compose-monitoring
+руссмотрены  cadvisor, grafana, alertmanager
+https://hub.docker.com/u/alexeyaltunin/
+```
+
