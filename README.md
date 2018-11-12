@@ -98,3 +98,10 @@ Kubernetes в GKE
 настроен CI/CD в kubernetes
 ```
 
+# ДЗ_25
+## Что было сделано
+```
+Prometheus в k8s
+Настройка Prometheus и Grafana для сбора метрик
+```
+
