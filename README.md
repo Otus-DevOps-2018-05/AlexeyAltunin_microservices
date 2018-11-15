@@ -61,3 +61,9 @@ https://hub.docker.com/u/alexeyaltunin/
 https://hub.docker.com/u/alexeyaltunin/
 ```
 
+# ДЗ_20
+## Что было сделано
+```
+установлен и рассмотрне EFK стек  
+```
+
