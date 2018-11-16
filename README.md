@@ -90,3 +90,11 @@ Kubernetes в GKE
 настроена работа с volume и PersistentVolume/Claim
 ```
 
+# ДЗ_24
+## Что было сделано
+```
+деплоймент кластера с помощью Helm
+запущен Gitlab CI в kubernetes
+настроен CI/CD в kubernetes
+```
+
