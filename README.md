@@ -74,12 +74,19 @@ https://hub.docker.com/u/alexeyaltunin/
 проверка дейплойментов и запуск подов 
 ```
 
-
 # ДЗ_22
 ## Что было сделано
 ```
 развернуто локальное окружение для работы с Kubernetes
 Kubernetes в GKE
 запущен reddit в Kubernetes
+```
+
+# ДЗ_23
+## Что было сделано
+```
+изучен аналог LoadBalancr - Ingress
+изучен NetworkPolicy - инструмент для декларативного описания потоков трафика
+настроена работа с volume и PersistentVolume/Claim
 ```
 
