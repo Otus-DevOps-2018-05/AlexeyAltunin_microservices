@@ -73,3 +73,13 @@ https://hub.docker.com/u/alexeyaltunin/
 туториал Kubernetes The Hard way
 проверка дейплойментов и запуск подов 
 ```
+
+
+# ДЗ_22
+## Что было сделано
+```
+развернуто локальное окружение для работы с Kubernetes
+Kubernetes в GKE
+запущен reddit в Kubernetes
+```
+
